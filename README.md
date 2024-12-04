@@ -34,8 +34,8 @@ The code is adapted from the original project by https://github.com/furkanansn/j
 
 To run the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/furkanansn/java-nand-gate.git`
-2. Navigate to the project directory: `cd java-nand-gate`
+1. Clone the repository: `git clone https://github.com/michelkana/cbank-smb-gates.git`
+2. Navigate to the project directory: `cd cbank-smb-gates`
 3. Build the project using Maven: `mvn clean install`
 4. Run the tests: `mvn test`
 5. Execute `mvn exec:java -Dexec.mainClass="org.example.Main"`
