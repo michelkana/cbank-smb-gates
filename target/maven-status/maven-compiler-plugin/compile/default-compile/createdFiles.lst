@@ -1,0 +1,11 @@
+org/example/gates/Gate.class
+org/example/Main.class
+org/example/gates/logic/DLATCHGate.class
+org/example/gates/logic/XORGate.class
+org/example/gates/logic/NORGate.class
+org/example/gates/logic/ANDGate.class
+org/example/gates/logic/FOURBITCounter.class
+org/example/gates/logic/ORGate.class
+org/example/gates/logic/NANDGate.class
+org/example/gates/logic/FLIPFLOPGate.class
+org/example/gates/logic/ONEBITCounter.class

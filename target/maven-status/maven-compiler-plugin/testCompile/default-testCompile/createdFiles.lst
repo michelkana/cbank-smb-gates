@@ -1,0 +1,9 @@
+org/example/gates/logic/NANDGateTest.class
+org/example/gates/logic/FOURBITCounterTest.class
+org/example/gates/logic/NORGateTest.class
+org/example/gates/logic/DLATCHGateTest.class
+org/example/gates/logic/ANDGateTest.class
+org/example/gates/logic/ORGateTest.class
+org/example/gates/logic/ONEBITCounterTest.class
+org/example/gates/logic/FLIPFLOPGateTest.class
+org/example/gates/logic/XORGateTest.class
