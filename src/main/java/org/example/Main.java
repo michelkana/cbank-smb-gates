@@ -7,7 +7,8 @@ public class Main {
         FOURBITCounter fourbitCounter = new FOURBITCounter();
         System.out.println("Hello and welcome to our strange 4-bit binary counter :-)");
         for (int i = 0; i <= 20; i++) {
-            int currentValue = fourbitCounter.count(false, false);
+            boolean clock = (i % 2 == 0);
+            int currentValue = fourbitCounter.count(clock, true);
             System.out.println(currentValue);
         }
 
