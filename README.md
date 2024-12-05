@@ -1,4 +1,4 @@
-# NAND Gate Simulation Project
+# 4 BIT COUNTER Simulation Project
 
 This project implements a simulation of digital logic gates for four bit counter. The goal is to demonstrate modularity of the software design.
 
